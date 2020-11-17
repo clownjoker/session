@@ -1,0 +1,12 @@
+{
+  "username": "mohamed",
+  "age": "12",
+  "title": "Title",
+  "test": "Test",
+  "login_to_session_is_available": "Login To Session Is Available",
+  "create_new_session": "Create New Session",
+  "photo_text_demo": "Photo text demo",
+  "log_in_facebook": "Log in Facebook",
+  "log_in_twitter": "Log in Twitter",
+  "log_in_google": "Log in Google"
+}
